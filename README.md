@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello WORLD! 👋
+
+🌱 I’m currently learning a language called coding.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ug1004/ug1004/output/github-contribution-grid-snake-dark.svg">
