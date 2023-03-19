@@ -1,4 +1,4 @@
-### Hello WORLD! 👋
+### HELLO WORLD! 👋
 
 🌱 I’m currently learning a language called coding.
 
